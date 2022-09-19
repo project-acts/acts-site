@@ -1,1 +1,0 @@
-# Project ACTS Assets
